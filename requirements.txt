@@ -1,0 +1,8 @@
+python-dotenv #le a chave de Api
+langchain #ferramentas de integração com a OpenAI 
+langchain-openai #ferramentas de integração com a OpenAI
+langchain-community #ferramentas de integração com a comunidade
+langchain-chroma #ferramentas de integração com a Chroma
+chromadb #ferramentas de integração com a Chroma
+openai #ferramentas de integração com a OpenAI
+pypdf  #ferramentas de integração com a PYPDF
